@@ -10,7 +10,11 @@ This project demonstrates how to produce and consume Avro-serialized messages us
 
 ## Setup
 
-1. Go to the temreinal under this repos root folder.
+1. Clone this repository:
+    ```
+    git clone <repository-url>
+    cd kafka-avro-producer
+    ```
 
 2. Install dependencies:
    ```
